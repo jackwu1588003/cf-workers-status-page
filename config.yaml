@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+    
+  - id: www-jyi-tw
+    name: jyi main cv
+    url: 'https://www.jyi.tw/'
+    method: GET
+    expectStatus: 200
