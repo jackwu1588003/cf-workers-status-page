@@ -101,10 +101,10 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
           </div>
           <div>
             <a
-              href="https://github.com/eidam/cf-workers-status-page"
+              href="https://jyi.tw"
               target="_blank"
             >
-              Get Your Status Page
+              回到主頁
             </a>
           </div>
         </div>
